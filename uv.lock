@@ -786,7 +786,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "ipywidgets", specifier = ">=8.1.8" },
+    { name = "ipywidgets", specifier = "==8.1.8" },
     { name = "notebook", specifier = "==7.5.5" },
     { name = "pandas", specifier = "==2.3.3" },
     { name = "pyproj", specifier = "==3.7.1" },
