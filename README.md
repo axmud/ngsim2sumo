@@ -13,5 +13,6 @@ uv add tqdm==4.67.3
 uv add pandas==2.3.3
 uv add pyproj==3.7.1
 uv add ipywidgets==8.1.8
+uv add traci==1.26.0
 jupyter notebook
 ```
