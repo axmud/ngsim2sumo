@@ -1,0 +1,13 @@
+[project]
+name = "ngsim"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.10.20"
+dependencies = [
+    "ipywidgets==8.1.8",
+    "notebook==7.5.5",
+    "pandas==2.3.3",
+    "pyproj==3.7.1",
+    "tqdm==4.67.3",
+]
