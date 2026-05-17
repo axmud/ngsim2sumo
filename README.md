@@ -10,3 +10,5 @@ uv sync
 .venv\Scripts\activate
 jupyter notebook
 ```
+
+[Youtube Video Link](https://youtu.be/VlsaDN1QHMw)
